@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/loremipsum-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/netty-3.5.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Serpent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httptunnel-0.92.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
